@@ -37,6 +37,7 @@ By leveraging web scraping techniques with BeautifulSoup, we obtained a rich and
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org)
+- [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 
 *You can install the necessary libraries in the [Installation](Installation) section; but you will need to have [Visual Studio Code](https://code.visualstudio.com) installed already.*
 
