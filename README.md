@@ -10,7 +10,7 @@
 - [License](#license)
 
 ## IMPORTANT
-Do take into account that this Analysis is not a direct and accurate Analysis on the Baguio, Philippines' weather patterns. This is an activity and is designed to showcase Web Scraping, Data Analysis, Cleanup, and Machine Learning techniques.
+Do take into account that this Analysis is not a direct and accurate Analysis on Baguio, Philippines' weather patterns. This is an activity and is designed to showcase Web Scraping, Data Analysis, Cleanup, and Machine Learning techniques.
 
 ## Introduction
 Welcome to the Weather Analysis project! In this project, we will explore and analyze weather patterns in Baguio, Philippines. By leveraging data analysis, cleanup, and machine learning techniques, we aim to gain insights into the weather trends and make predictions for future patterns.
