@@ -55,10 +55,13 @@ To run the analysis locally, follow these steps:
    cd Weather-Analysis
    ```
    
-3. Run bash.sh
+3. Run scrape.py
    ```bash
-   bash bash.sh
+   python scrape.py
    ```
+4. Run ALL OF THE CELLS in clean.ipynb
+
+5. Run ALL OF THE CELLS in analysis.ipynb
 
 bash.sh runs a quick script to run ```scrape.py```, however you will need to manually run all of the code cells in the Jupyter notebook.
 
