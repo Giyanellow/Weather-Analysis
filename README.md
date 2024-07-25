@@ -23,8 +23,7 @@ Through this analysis, we will showcase the power of data-driven approaches in u
 So let's dive in and uncover the fascinating world of Baguio's weather patterns!
 
 ## Gathered Data / Dataset
-
-For this analysis, we used the BeautifulSoup library in Python to scrape weather data from an online weather API. We collected data for a period of 45 days to ensure a comprehensive dataset for analysis.
+For this analysis, we used the BeautifulSoup library in Python to scrape weather data from an online weather website (Accuweather). We collected data for a period of 45 days to ensure a comprehensive dataset for analysis.
 
 Using BeautifulSoup, we were able to extract various weather parameters such as temperature, humidity, wind speed, and precipitation for each day. The scraped data was then stored in a CSV file for further processing and analysis.
 
