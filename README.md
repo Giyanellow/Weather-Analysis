@@ -39,6 +39,7 @@ By leveraging web scraping techniques with BeautifulSoup, we obtained a rich and
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org)
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+- [Dash](https://dash.plotly.com)
 
 _You can install the necessary libraries in the [Installation](Installation) section; but you will need to have [Visual Studio Code](https://code.visualstudio.com) installed already._
 
@@ -97,4 +98,3 @@ Overall, this project demonstrates the value of data analysis in understanding a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-````
