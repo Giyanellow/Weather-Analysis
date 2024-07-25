@@ -57,11 +57,15 @@ To run the analysis locally, follow these steps:
    ```bash
    cd Weather-Analysis
    ```
-3. Run scrape.py
+3. Install requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run scrape.py
    ```bash
    python scrape.py
    ```
-4. Run ALL OF THE CELLS in clean.ipynb
+5. Run ALL OF THE CELLS in clean.ipynb
 
 You will need to run ```scrape.py``` and it manually scrapes all available data in Accuweather's Baguio webpage, however you will need to manually run all of the code cells in the Jupyter notebook.
 
