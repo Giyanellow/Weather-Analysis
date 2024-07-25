@@ -16,33 +16,63 @@ h1 {
 
 #main-container {
     /* background-color: #1a1a1a; */
-    color:#1a1a1a
+    color: #1a1a1a;
 }
 
 #table-container {
-    width: full;
+    width: 100%; /* Use 100% instead of 'full' */
     margin-top: 2rem;
-    color:#1a1a1a
+    color: #1a1a1a;
 }
 
 #graph-container {
-    width: full;
+    width: 100%; /* Use 100% instead of 'full' */
     margin-top: 2rem;
 }
 
 #temp-graph {
     width: 100%;
     height: 100%;
-    color:#1a1a1a;
+    color: #1a1a1a;
     font-family: 'Poppins', sans-serif;
 }
 
 #date-slider {
-    width: 50%;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#options-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    padding: 1rem; 
+    color: #1a1a1a;
+    text-align: center;
+}
+
+#options-container > * {
+    width: 50%; 
+    margin-bottom: 1rem; 
+}
+
+#col-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+#col-container > * {
+    width: 100%; 
+    margin-bottom: 1rem; 
 }
 
 
