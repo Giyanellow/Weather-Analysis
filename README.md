@@ -63,7 +63,7 @@ To run the analysis locally, follow these steps:
 
 5. Run ALL OF THE CELLS in analysis.ipynb
 
-bash.sh runs a quick script to run ```scrape.py```, however you will need to manually run all of the code cells in the Jupyter notebook.
+You will need to run ```scrape.py``` and it manually scrapes all available data in Accuweather's Baguio webpage, however you will need to manually run all of the code cells in the Jupyter notebook.
 
 See this [link](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) on how to run Jupyter notebooks on Vscode.
 
